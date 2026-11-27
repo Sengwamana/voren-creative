@@ -152,7 +152,7 @@
     }
     if (emailBtn) {
       const emSubject = encodeURIComponent(`New Project Inquiry: ${phrase}`);
-      emailBtn.href = `mailto:Sam.kamo500@gmail.com?subject=${emSubject}`;
+      emailBtn.href = `mailto:vorenstudio5@gmail.com?subject=${emSubject}`;
     }
   };
 
@@ -171,7 +171,7 @@
   const copyBtn = $(".contact-copy-btn");
   if (copyBtn) {
     copyBtn.addEventListener("click", async () => {
-      const textToCopy = copyBtn.dataset.copy || "Sam.kamo500@gmail.com";
+      const textToCopy = copyBtn.dataset.copy || "vorenstudio5@gmail.com";
       try {
         await navigator.clipboard.writeText(textToCopy);
         copyBtn.classList.add("is-copied");

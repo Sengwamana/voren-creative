@@ -62,6 +62,6 @@ vercel.json         Vercel build/output settings
 
 ## Contact
 
-- Email: Sam.kamo500@gmail.com
+- Email: vorenstudio5@gmail.com
 - WhatsApp / phone: +250 789 906 133
 - Instagram: [@voren.007](https://www.instagram.com/voren.007)

@@ -148,7 +148,7 @@
 
     if (whatsappBtn) {
       const waText = encodeURIComponent(`Hi Vorén, I'd like to discuss a project involving: ${phrase}.`);
-      whatsappBtn.href = `https://wa.me/250789906133?text=${waText}`;
+      whatsappBtn.href = `https://wa.me/250796710640?text=${waText}`;
     }
     if (emailBtn) {
       const emSubject = encodeURIComponent(`New Project Inquiry: ${phrase}`);
